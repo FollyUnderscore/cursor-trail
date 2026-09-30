@@ -17,6 +17,7 @@ A beautiful, customizable cursor trail effect that works across your entire desk
 - **Click-through support** - doesn't interfere with other applications
 - **Configuration system** - file-based and command-line options
 
+
 ## 🎯 Windows 11 Support
 
 This implementation specifically addresses Windows 11 transparency and overlay issues:
